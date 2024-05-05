@@ -1,0 +1,20 @@
+{
+  "FolderOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"obj_boss","order":1,"path":"objects/obj_boss/obj_boss.yy",},
+    {"name":"obj_cursor","order":7,"path":"objects/obj_cursor/obj_cursor.yy",},
+    {"name":"obj_exit","order":6,"path":"objects/obj_exit/obj_exit.yy",},
+    {"name":"obj_score","order":4,"path":"objects/obj_score/obj_score.yy",},
+    {"name":"obj_spawn","order":3,"path":"objects/obj_spawn/obj_spawn.yy",},
+    {"name":"obj_start","order":5,"path":"objects/obj_start/obj_start.yy",},
+    {"name":"obj_trash","order":2,"path":"objects/obj_trash/obj_trash.yy",},
+    {"name":"r_bossfight","order":1,"path":"rooms/r_bossfight/r_bossfight.yy",},
+    {"name":"spr_background","order":3,"path":"sprites/spr_background/spr_background.yy",},
+    {"name":"spr_boss","order":1,"path":"sprites/spr_boss/spr_boss.yy",},
+    {"name":"spr_cursor","order":6,"path":"sprites/spr_cursor/spr_cursor.yy",},
+    {"name":"spr_exit","order":5,"path":"sprites/spr_exit/spr_exit.yy",},
+    {"name":"spr_start","order":4,"path":"sprites/spr_start/spr_start.yy",},
+    {"name":"sprit","order":2,"path":"sprites/sprit/sprit.yy",},
+    {"name":"Sprite8","order":7,"path":"sprites/Sprite8/Sprite8.yy",},
+  ],
+}
